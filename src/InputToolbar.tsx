@@ -20,8 +20,9 @@ const styles = StyleSheet.create({
     borderTopWidth: StyleSheet.hairlineWidth,
     borderTopColor: Color.defaultColor,
     backgroundColor: Color.white,
-    bottom: 0,
-    left: 0,
+    bottom: 40,
+    width: '90%',
+    left: '5%',
     right: 0,
   },
   primary: {
